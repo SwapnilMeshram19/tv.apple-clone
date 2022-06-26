@@ -1,19 +1,811 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Creatures_&_Critters":[
+      {
+          "id":"100",
+          "Image":"https://is4-ssl.mzstatic.com/image/thumb/_WDO4pxq_b43sYn1s-nJQg/738x416.webp",
+          "Poster":"https://is2-ssl.mzstatic.com/image/thumb/8owhlPtkaKls6xIfUt05gw/1319x742sr.webp",
+          "Title":"Lovely Little Farm",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features1…y1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is4-ssl.mzstatic.com/image/thumb/Features1…Vy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features1…Vy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/hHV5H1cuFlzLI-bv4nB94g/492x492ve.webp",
+                  "Name":"Levi Howden",
+                  "Title":"Jill"
+              },
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/7vqPGQl0GAR13vK5TC6Edw/492x492ve.webp",
+                  "Name":"Kassidi Roberts",
+                  "Title":"Jacky"
+              },
+              {
+                 "Image":"https://is1-ssl.mzstatic.com/image/thumb/7qzwD_moZyJsPbzkDW6R3Q/492x492ve.webp",
+                 "Name":"Micah Balfour",
+                 "Title":"Jonas"
+              },
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/MDZ_ZPasUvuVZdmbxhSo4w/492x492ve.webp",
+                  "Name":"Cicely Giddings",
+                  "Title":"Jenna"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/oGYbJGoCsp7DBkpLdbyGzg/492x492ve.webp",
+                  "Name":"Barry McCarthy",
+                  "Title":"Jamma"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/0PlUgMMuXvoUbY6gfpdDEQ/492x492ve.webp",
+                  "Name":"Nick Kellington",
+                  "Title":"Pickle Pony"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/qcZJ1WCRMN5xAhDB9IkB4g/492x492ve.webp",
+                  "Name":"Jeremiah Krage",
+                  "Title":"Al Alpaca"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/gO-_hGWfLBhLBAjgIU-dDg/492x492ve.webp",
+                  "Name":"Shirley Henderson",
+                  "Title":"Quuackety Duck Duck"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/_UB5hn_heOx9-ypxHJFAXw/492x492ve.webp",
+                  "Name":"Dominique Moore",
+                  "Title":"Pickle Pony Voice"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/7vzNN5tDI92bo7-lz02MUw/492x492ve.webp",
+                  "Name":"Joel fry",
+                  "Title":"Al Alpaca Voice" 
+              }
+          ],
+          "About":{
+              "Title":"Lovely Little Farm",
+              "Type":"Kids and Family",
+              "Detail":"Nestled in lavender fields is a lovely little farm where sisters Jill and Jacky nurture and love all their animals—including the talking ones. Being a young farmer isn’t easy, but every day brings adventure and a chance to grow."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Sublimely sweet farm life tale; top-notch special effects.",
+              "Age":"3+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2022,
+              "Rated":"TV-Y",
+              "origin":"United Kingdom"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      },
+
+
+
+      {
+          "id":"101",
+          "Image":"https://is2-ssl.mzstatic.com/image/thumb/YiChRDmAwHZh9S6Il-H6zw/1679x945sr.webp",
+          "Poster":"https://is2-ssl.mzstatic.com/image/thumb/YiChRDmAwHZh9S6Il-H6zw/1679x945sr.webp",
+          "Title":"Lovely Little Farm",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1319x494sr.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features126/v4/b7/1a/f2/b71af29c-8fb7-8a69-f7f9-f67f3967ef3b/RVNULVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/0hgsnbkvldKg46RYP_mjyA/492x492ve.webp",
+                  "Name":"John Tartaglia",
+                  "Title":"Gobo"
+              },
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/xbQghIjP6e-Sq0wXDdei5g/492x492ve.webp",
+                  "Name":"Karen Parell",
+                  "Title":"Red"
+              },
+              {
+                 "Image":"https://is5-ssl.mzstatic.com/image/thumb/XuWkRPxa9k0Pd1tnxSnr-g/492x492ve.webp",
+                 "Name":"Donna Kimball",
+                 "Title":"Mockey"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/7GmII1RUluoIEt2H7IFNXg/492x492ve.webp",
+                  "Name":"Jordan Lockhart",
+                  "Title":"Wembley"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/xsFOoS1NjeFU0CAA6tY_UA/492x492ve.webp",
+                  "Name":"Dave Goelz",
+                  "Title":"Boober"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/xsFOoS1NjeFU0CAA6tY_UA/492x492ve.webp",
+                  "Name":"Frank Meschkuleit",
+                  "Title":"Boober"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/JZs4TBtwFsfkom7xrKs71g/492x492ve.webp",
+                  "Name":"Lilly Cooper",
+                  "Title":"DOC"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/FHgMCcHaQIU0cGWVg_pJyA/492x492ve.webp",
+                  "Name":"Lisa Henson",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/xxaq5KlSxSDk3bbHGdLmmQ/492x492ve.webp",
+                  "Name":"Halle Stanford",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/Bb-xs7P_nki_qiHt-DsYdA/492x492ve.webp",
+                  "Name":"John Tartaglia",
+                  "Title":"Executive Producer" 
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/38EcqhrV-M2p3ky9BYqFSQ/492x492ve.webp",
+                  "Name":"Matt Fusfeld",
+                  "Title":"Executive Producer" 
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/KWYMcsmptna58fp_9tIwKA/492x492ve.webp",
+                  "Name":"Alex Cuthbertson",
+                  "Title":"Executive Producer" 
+              }
+          ],
+          "About":{
+              "Title":"Fraggle Rock: Back to the Rock",
+              "Type":"Kids and Family",
+              "Detail":"Jim Henson’s fun-loving, musical Fraggles are back! Join Gobo, Red, Wembley, Mokey, Boober, and new Fraggle friends on hilarious, epic adventures about the magic that happens when we celebrate and care for our interconnected world."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Faithful reboot brings joy, tunes, and positive messages.",
+              "Age":"5+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2022,
+              "Rated":"TV-G",
+              "origin":"United States,Canada"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      },
+
+
+
+      {
+          "id":"102",
+          "Image":"https://is2-ssl.mzstatic.com/image/thumb/YiChRDmAwHZh9S6Il-H6zw/1679x945sr.webp",
+          "Poster":"https://is2-ssl.mzstatic.com/image/thumb/x41UG2ud_Z-0mLmIqP-FEw/1679x945sr.webp",
+          "over_Poster_Image":"https://is5-ssl.mzstatic.com/image/thumb/QxICeWtKqHg2dtrKjoGYGA/1200x450.webp",
+          "Title":"Fraggle Rock back to the rock",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1319x494sr.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features126/v4/b7/1a/f2/b71af29c-8fb7-8a69-f7f9-f67f3967ef3b/RVNULVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/aasxOpssOO7dYwl0UURPGg/492x492ve.webp",
+                  "Name":"Mark Duplass",
+                  "Title":"Pretzel"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/Zw77WWh3vAu-t0lKUDDuTQ/492x492ve.webp",
+                  "Name":"Nasim Pedrad",
+                  "Title":"Greta"
+              },
+              {
+                 "Image":"https://is3-ssl.mzstatic.com/image/thumb/zGkf0JmDtY-wZtiwYoeboQ/492x492ve.webp",
+                 "Name":"Amari McCoy",
+                 "Title":"Pippa"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/7GmII1RUluoIEt2H7IFNXg/492x492ve.webp",
+                  "Name":"Jordan Lockhart",
+                  "Title":"Wembley"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/xsFOoS1NjeFU0CAA6tY_UA/492x492ve.webp",
+                  "Name":"Dave Goelz",
+                  "Title":"Boober"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/xsFOoS1NjeFU0CAA6tY_UA/492x492ve.webp",
+                  "Name":"Frank Meschkuleit",
+                  "Title":"Boober"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/JZs4TBtwFsfkom7xrKs71g/492x492ve.webp",
+                  "Name":"Lilly Cooper",
+                  "Title":"DOC"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/FHgMCcHaQIU0cGWVg_pJyA/492x492ve.webp",
+                  "Name":"Lisa Henson",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/xxaq5KlSxSDk3bbHGdLmmQ/492x492ve.webp",
+                  "Name":"Halle Stanford",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/Bb-xs7P_nki_qiHt-DsYdA/492x492ve.webp",
+                  "Name":"John Tartaglia",
+                  "Title":"Executive Producer" 
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/38EcqhrV-M2p3ky9BYqFSQ/492x492ve.webp",
+                  "Name":"Matt Fusfeld",
+                  "Title":"Executive Producer" 
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/KWYMcsmptna58fp_9tIwKA/492x492ve.webp",
+                  "Name":"Alex Cuthbertson",
+                  "Title":"Executive Producer" 
+              }
+          ],
+          "About":{
+              "Title":"Fraggle Rock back to the rock",
+              "Type":"Kids and Family",
+              "Detail":"Meet Pretzel, the world’s longest dachshund and a playful, supportive dad to five frisky puppies. Together with his wife, Greta, they encourage their pups to get their paws up to solve problems and “make their bark” on the world."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Fun, colorful preschool series is a barking good time.",
+              "Age":"3+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2022,
+              "Rated":"TV-Y",
+              "origin":"United States,Canada"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      },
+
+
+
+      {
+          "id":"103",
+          "Image":"https://is2-ssl.mzstatic.com/image/thumb/StRHuSLsy2WhrdoPNZ07xQ/738x416.webp",
+          "Poster":"https://is1-ssl.mzstatic.com/image/thumb/ys_gG2giBIRrSKDrPQ3Edg/1679x945sr.webp",
+          "over_Poster_Image":"https://is3-ssl.mzstatic.com/image/thumb/APrb03drel6z4IEK1TZ17A/1200x450.webp",
+          "Title":"Pinecone & Pony",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1319x494sr.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features126/v4/b7/1a/f2/b71af29c-8fb7-8a69-f7f9-f67f3967ef3b/RVNULVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/QK7gu-ZwxdOkQfBlOhXIag/492x492ve.webp",
+                  "Name":"Maria Nash",
+                  "Title":"Pinecone"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/KXvzMPttFttjXF3AYHzdIQ/492x492ve.webp",
+                  "Name":"Chase Dillon",
+                  "Title":"Hawthorn"
+              },
+              {
+                 "Image":"https://is1-ssl.mzstatic.com/image/thumb/MvJ71pvDPYLVTWNUbhfQeQ/492x492ve.webp",
+                 "Name":"Rachel House",
+                 "Title":"Glady"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/oMEgYxua0J48hEt2x1BaJw/492x492ve.webp",
+                  "Name":"Thom Allison",
+                  "Title":"Greymoon"
+              },
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/F_bWtcYAh8dkr69wUfzfBA/492x492ve.webp",
+                  "Name":"Viola Abley",
+                  "Title":"Annabelle"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/PCP_BnJtkh0Fxzp7ZVkm5A/492x492ve.webp",
+                  "Name":"Alicia Richardson",
+                  "Title":"Kimya"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/GriC6J2qG4Pc8ilm881NSg/492x492ve.webp",
+                  "Name":"Andy Hull",
+                  "Title":"Arlo"
+              },
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/5sTzzEGtpi2eJRqMfPQkSQ/492x492bb.webp",
+                  "Name":"Mackenzie Lush",
+                  "Title":"Executive Producer"
+              }
+          ],
+          "About":{
+              "Title":"Pinecone & Pony",
+              "Type":"Kids and Family",
+              "Detail":"Kate Beaton’s beloved book comes to life in this animated series. As a warrior in training, Pinecone fears no challenge. Thankfully, Pony always makes sure Pinecone never gets in over her head. Together they learn life can be a fun-filled adventure."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Beloved kids' book comes to life in funny series.",
+              "Age":"6+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2022,
+              "Rated":"TV-Y",
+              "origin":"Canada"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      },
+
+
+
+      
+      {
+          "id":"104",
+          "Image":"https://is2-ssl.mzstatic.com/image/thumb/2lfdtvo9bvduvVLrbcASow/738x416.webp",
+          "Poster":"https://is4-ssl.mzstatic.com/image/thumb/dzX44PV0CuPuVg-8ScaEZA/1679x945sr.webp",
+          "over_Poster_Image":"https://is4-ssl.mzstatic.com/image/thumb/EiCw5Jsq5ARaH_m9EYneGw/1200x450.webp",
+          "Title":"Wolfboy and the Everything Factory",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1319x494sr.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features126/v4/b7/1a/f2/b71af29c-8fb7-8a69-f7f9-f67f3967ef3b/RVNULVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/kCLSMprKcaAp8oU9GMzVrQ/492x492ve.webp",
+                  "Name":"Kassian Akhtar",
+                  "Title":"Wolfboy"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/__Wg1LHmTlAdcX10NrNkRg/492x492ve.webp",
+                  "Name":"Archie Yates",
+                  "Title":"Sprowt"
+              },
+              {
+                 "Image":"https://is3-ssl.mzstatic.com/image/thumb/9ebSawoEb4e67Y4esEOhLA/492x492ve.webp",
+                 "Name":"Joseph Gordon-Levitt",
+                 "Title":"Luxcraft"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/3ROQVe7LGGDB5mVP3cNx2w/492x492ve.webp",
+                  "Name":"Lilly William",
+                  "Title":"Xandra"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/mXj2aYoTkuF5uSSwujQRbw/492x492bb.webp",
+                  "Name":"Joseph Gordon-Levitt",
+                  "Title":"Executive Producer"
+              }
+          ],
+          "About":{
+              "Title":"Wolfboy and the Everything Factory",
+              "Type":"Kids and Family",
+              "Detail":"William Wolfe is no ordinary human boy. Down in the magical spryte realm of the Everything Factory, he’s Wolfboy. And with his new spryte friends, he learns his vivid imagination and limitless creativity have the power to change the world."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Fab fantasy adventure with great lessons about empathy.",
+              "Age":"8+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2021,
+              "Rated":"TV-Y7",
+              "origin":"United States"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      },
+
+
+
+        
+      {
+          "id":"105",
+          "Image":"https://is3-ssl.mzstatic.com/image/thumb/6f5y-DYx9UvvcJ-gpqAufw/738x416.webp",
+          "Poster":"https://is3-ssl.mzstatic.com/image/thumb/2bvcvsL2NJtzsmZjfVT3lw/1679x945sr.webp",
+          "over_Poster_Image":"https://is5-ssl.mzstatic.com/image/thumb/PCo6Hw81WIgYyudirSevew/1200x450.webp",
+          "Title":"Puppy place",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1319x494sr.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features126/v4/b7/1a/f2/b71af29c-8fb7-8a69-f7f9-f67f3967ef3b/RVNULVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/juSmHGiA-b_o7j3fML47kg/492x492ve.webp",
+                  "Name":"Brooklynn MacKinzie",
+                  "Title":"Lizzie"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/6XP3GlJ4UwaZeudHYepWJA/492x492ve.webp",
+                  "Name":"Riely look",
+                  "Title":"Charles"
+              },
+              {
+                 "Image":"https://is4-ssl.mzstatic.com/image/thumb/OCbND3wGNAcWLNG2Jc84EA/492x492ve.webp",
+                 "Name":"Dominique Toney",
+                 "Title":"Betsy"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/r7PkfuC9yb0uKAfe11nbeA/492x492ve.webp",
+                  "Name":"Eric Lynch",
+                  "Title":"Paul"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/bhWZjVMjUvqJDgUL2zZmRw/492x492bb.webp",
+                  "Name":"Catelein Fietlin",
+                  "Title":"Executive Producer"
+              }
+          ],
+          "About":{
+              "Title":"Puppy place",
+              "Type":"Kids and Family",
+              "Detail":"Charles and Lizzie Peterson have found the perfect way to foster their love of dogs—literally. The siblings take on the tough but rewarding task of fostering puppies and finding their forever homes. With every new pup, a new adventure begins."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Heartwarming family adventures in foster dog parenthood.",
+              "Age":"5+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2021,
+              "Rated":"TV-G",
+              "origin":"United States"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      },
+
+
+
+
+          
+      {
+          "id":"106",
+          "Image":"https://is3-ssl.mzstatic.com/image/thumb/HGw-QzsXlYUDp68NCOvxZQ/738x416.webp",
+          "Poster":"https://is2-ssl.mzstatic.com/image/thumb/UlvQmKOTeCnI7Yo6HphuBg/999x562sr.webp",
+          "over_Poster_Image":"https://is3-ssl.mzstatic.com/image/thumb/DpwJxqL2ccqA32wHBnTlmA/1200x450.webp",
+          "Title":"Still Water",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1319x494sr.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features126/v4/b7/1a/f2/b71af29c-8fb7-8a69-f7f9-f67f3967ef3b/RVNULVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/UcwBHDZKe3fiyC-yZVs1lg/492x492ve.webp",
+                  "Name":"James Sie",
+                  "Title":"stillwater"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/R8O15m0WxjGLeQ6GAn5IpA/492x492ve.webp",
+                  "Name":"Eva Ariel Binder",
+                  "Title":"Addy"
+              },
+              {
+                 "Image":"https://is4-ssl.mzstatic.com/image/thumb/dWorGcdqlHeiw8yrcAPreg/492x492ve.webp",
+                 "Name":"Tucker Chandler",
+                 "Title":"Michael"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/LSavMvj40YhAC25kalAG_A/492x492ve.webp",
+                  "Name":"Judah Mackey",
+                  "Title":"Karl"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/Zx-ZRBTKeU0x__RFZyxIow/492x492ve.webp",
+                  "Name":"Rob Hoegee",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/s1DrAFG12RMzaBrXfTVV-A/492x492ve.webp",
+                  "Name":"Sidonie Dumas",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/wuq29G_9vnicLrL7oW0ZDA/492x492ve.webp",
+                  "Name":"Christophe Riandee",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/BLdvfEnq_TQBF9rIaOKOKQ/492x492ve.webp",
+                  "Name":"Terry Kalagian",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/YhKOLgMg63G3Lnc3Gfp5Tw/492x492ve.webp",
+                  "Name":"Nicolas Atlan",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/vvxfEvZcesfUzQgnXL3gqA/492x492ve.webp",
+                  "Name":"Lolle luchhese",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/OFBzScS0FGTEiFzYwN9vvw/492x492ve.webp",
+                  "Name":"Caitlin friedman",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/5qcA6jdKM-S6boTOtqilmQ/492x492ve.webp",
+                  "Name":"Jaif Kaminskey",
+                  "Title":"Executive Producer"
+              }
+          ],
+          "About":{
+              "Title":"Still Water",
+              "Type":"Kids and Family",
+              "Detail":"Siblings Karl, Addy, and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Beautiful, gentle series emphasizes emotional awareness.",
+              "Age":"6+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2020,
+              "Rated":"TV-Y7",
+              "origin":"United States"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      },
+
+
+
+           
+      {
+          "id":"107",
+          "Image":"https://is1-ssl.mzstatic.com/image/thumb/UtRuOihF2zNFPo4g5zUwdA/738x416.webp",
+          "Poster":"https://is4-ssl.mzstatic.com/image/thumb/6U-gqtS22zKWartzhsqvyw/1679x945sr.webp",
+          "over_Poster_Image":"https://is2-ssl.mzstatic.com/image/thumb/yy9zY-hMjeRK8gUygTlAyA/1200x450.webp",
+          "Title":"The Snoopy Show",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1319x494sr.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features126/v4/b7/1a/f2/b71af29c-8fb7-8a69-f7f9-f67f3967ef3b/RVNULVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/l1u8BZcy_dw0L36XAITrpw/492x492ve.webp",
+                  "Name":"Tyler Nathan",
+                  "Title":"Charlie Brown"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/9y4z7oZXm-eTbZxHCaReXg/492x492ve.webp",
+                  "Name":"Terry McGurrin",
+                  "Title":"Snoopy"
+              },
+              {
+                 "Image":"https://is3-ssl.mzstatic.com/image/thumb/qohbjJqpiUccfOOZlOvLwA/492x492ve.webp",
+                 "Name":"Rob Tinkler",
+                 "Title":"Wood Stock"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/-iDouqVTIxEU0C-vm-RM9w/492x492ve.webp",
+                  "Name":"Christian Dal Dosso",
+                  "Title":"Franklin"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/GPoBoz3HZmGwVodv4pKkTA/492x492ve.webp",
+                  "Name":"Isabella Leo",
+                  "Title":"Lucy"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/1OIEtzPOYwR16JTjF6CT3w/492x492ve.webp",
+                  "Name":"Holly Gorski",
+                  "Title":"Marcie"
+              },
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/8wUNXOEXW6y7GV8rBxx_TA/492x492ve.webp",
+                  "Name":"Hattie Kragten",
+                  "Title":"Sailly"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/3-cw_CDddgs6PsUZrC8LvQ/492x492ve.webp",
+                  "Name":"Isis Moore",
+                  "Title":"Peppermint Patty"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/O7ezRoj_WKEDt_aP24auVw/492x492ve.webp",
+                  "Name":"wyatt white",
+                  "Title":"Linus"
+              },
+              {
+                  "Image":"https://is1-ssl.mzstatic.com/image/thumb/3SFTJpvj63zxJTEWL6h9iw/492x492ve.webp",
+                  "Name":"Milo Toriel-McGibbon",
+                  "Title":"Rerun"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/FCXrLDThmBpqhz7Xo19Jow/492x492ve.webp",
+                  "Name":"Matthew Mucci",
+                  "Title":"Schroeder"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/wscHBj_i9BunhMpZqGDtIA/492x492ve.webp",
+                  "Name":"Jacob Soley",
+                  "Title":"Pigpen"
+              }
+          ],
+          "About":{
+              "Title":"The Snoopy Show",
+              "Type":"Kids and Family",
+              "Detail":"The world’s most iconic dog is ready for his close-up. Dive into new adventures with the happy-dancing, high-flying, big-dreaming beagle, who’s joined by best friend Woodstock and the rest of the Peanuts gang."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Snoopy stars in fun reboot with some Peanuts-style snark.",
+              "Age":"4+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2021,
+              "Rated":"TV-G",
+              "origin":"Canada"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      },
+
+
+
+             
+      {
+          "id":"108",
+          "Image":"https://is2-ssl.mzstatic.com/image/thumb/lQggjzswj8ZD1hym1_oVGQ/738x416.webp",
+          "Poster":"https://is4-ssl.mzstatic.com/image/thumb/JPbSu1uBoMNHtA-QzTuBrw/999x562sr.webp",
+          "over_Poster_Image":"https://is4-ssl.mzstatic.com/image/thumb/BSnwNarFJzJ0tmp7qRGt_w/1200x450.webp",
+          "Title":"Helpsters",
+          "slider_Image1":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1320x495sr.webp",
+          "Slider_Image2":"https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/c9/0b/f8/c90bf806-6a44-df7f-79e8-e4f661fe5713/RVNXLVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/1319x494sr.webp",
+          "Slider_Image3":"https://is4-ssl.mzstatic.com/image/thumb/Features126/v4/b7/1a/f2/b71af29c-8fb7-8a69-f7f9-f67f3967ef3b/RVNULVRWQS1XVy1BVFZQbHVzX0tpZHMtTFRSLnBuZw.png/400x610tc.webp",
+          "cast_&_crew":[
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/gs8S70RmsUkRWCNtQN94Ag/492x492ve.webp",
+                  "Name":"Stephanie D'Abruzzo",
+                  "Title":"Cody"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/WDe07lqMfs0Rg17VVVyFwg/492x492ve.webp",
+                  "Name":"Martin Robinson",
+                  "Title":"Mr primm"
+              },
+              {
+                 "Image":"https://is4-ssl.mzstatic.com/image/thumb/lo4S02QdFFpLboZYAeNVRA/492x492ve.webp",
+                 "Name":"Tim Lagasse",
+                 "Title":"Scatter"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/Xm-0SfpylKYnk3xo4WEhQA/492x492ve.webp",
+                  "Name":"Ingrid Hansen",
+                  "Title":"Heart"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/bWQHxvtw8qZD3fnzNmqJ6g/492x492ve.webp",
+                  "Name":"Jennifer Barnhart",
+                  "Title":"Jackie"
+              },
+              {
+                  "Image":"https://is3-ssl.mzstatic.com/image/thumb/fxxCUZqfvGMVLZPHMPvIew/492x492ve.webp",
+                  "Name":"Benjamin Lehmann",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is5-ssl.mzstatic.com/image/thumb/RfZhCoES1G8lRBHKiAfoyg/492x492ve.webp",
+                  "Name":"Tim Mckeon",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is2-ssl.mzstatic.com/image/thumb/BaRvDC6S24GHaEBy_4Um2w/492x492ve.webp",
+                  "Name":"Kay Wilson Stallings",
+                  "Title":"Executive Producer"
+              },
+              {
+                  "Image":"https://is4-ssl.mzstatic.com/image/thumb/QVQy7I7D1xuEr4Ea__XskQ/492x492bb.webp",
+                  "Name":"Tim Mckeon",
+                  "Title":"Creator"
+              }
+          ],
+          "About":{
+              "Title":"Helpsters",
+              "Type":"Kids and Family",
+              "Detail":"Meet Cody and the Helpsters, a team of vibrant monsters who love to solve problems. Whether it’s planning a party, climbing a mountain, or mastering a magic trick, the Helpsters can figure anything out—because everything starts with a plan."
+          },
+          "warning":{
+              "Type":"Common Sense",
+              "Detail":"Friendly monsters demonstrate critical thinking skills.",
+              "Age":"4+"
+          },
+          "Information":{
+              "caption":"Genre",
+              "Type":"Kids & Family",
+              "released":2019,
+              "Rated":"KV-Y",
+              "origin":"United States"
+          },
+          "languages":{
+              "Original_audio":"English",
+              "audio":"English (AD, AAC, Dolby Atmos, Dolby 5.1), and 24 more...",
+              "subtitles":"English (CC, SDH)"
+          },
+          "Accessiblity":{
+              "closed_caption":"Closed captions (CC) refer to subtitles in the available language with the addition of relevant non-dialogue information.",
+              "audio":"Audio descriptions (AD) refer to a narration track describing what is happening on screen, to provide context for those who are blind or have low vision."
+          }
+
+      }
+  ]
 }
+
+
+
