@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+   font-family: "-apple-system",BlinkMacSystemFont,"-webkit-system-font","Malgun Gothic","Segoe UI","Helvetica Neue",Helvetica,sans-serif;
+
+}
+.header_logo_div{
+    width: 98.7vw;
+    display: flex;
+    justify-content: space-between;
+    padding: .5vh 1vh 0vh 1vh;
+    background-color: black;
+    color: blue;
+    align-items: center;
+    position: sticky;
+    top: 0vh;
+    left: 0vw;
+    right: 0vh;
+}
+.header_logo_div > div > img{
+    width: 5vw;
+}
+.home_page_poster > div > img{
+    width: 98.7vw;
+
+}
+/* .ImageBox{
+    width: 17.8vw !important;
+  
+}
+.Image_of_Slider{
+    width: 100%;
+    border-radius: 1vw;
+   
+} */
+
+.sliderBox > div >div{
+    border: 5px solid red;
+  /* display: flex; */
+}
