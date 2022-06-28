@@ -2,6 +2,7 @@
   "Creatures_&_Critters":[
       {
           "id":"100",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is4-ssl.mzstatic.com/image/thumb/_WDO4pxq_b43sYn1s-nJQg/738x416.webp",
           "Poster":"https://is2-ssl.mzstatic.com/image/thumb/8owhlPtkaKls6xIfUt05gw/1319x742sr.webp",
           "Title":"Lovely Little Farm",
@@ -93,6 +94,7 @@
 
       {
           "id":"101",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is2-ssl.mzstatic.com/image/thumb/YiChRDmAwHZh9S6Il-H6zw/1679x945sr.webp",
           "Poster":"https://is2-ssl.mzstatic.com/image/thumb/YiChRDmAwHZh9S6Il-H6zw/1679x945sr.webp",
           "Title":"Lovely Little Farm",
@@ -194,6 +196,7 @@
 
       {
           "id":"102",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is2-ssl.mzstatic.com/image/thumb/YiChRDmAwHZh9S6Il-H6zw/1679x945sr.webp",
           "Poster":"https://is2-ssl.mzstatic.com/image/thumb/x41UG2ud_Z-0mLmIqP-FEw/1679x945sr.webp",
           "over_Poster_Image":"https://is5-ssl.mzstatic.com/image/thumb/QxICeWtKqHg2dtrKjoGYGA/1200x450.webp",
@@ -296,6 +299,7 @@
 
       {
           "id":"103",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is2-ssl.mzstatic.com/image/thumb/StRHuSLsy2WhrdoPNZ07xQ/738x416.webp",
           "Poster":"https://is1-ssl.mzstatic.com/image/thumb/ys_gG2giBIRrSKDrPQ3Edg/1679x945sr.webp",
           "over_Poster_Image":"https://is3-ssl.mzstatic.com/image/thumb/APrb03drel6z4IEK1TZ17A/1200x450.webp",
@@ -379,6 +383,7 @@
       
       {
           "id":"104",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is2-ssl.mzstatic.com/image/thumb/2lfdtvo9bvduvVLrbcASow/738x416.webp",
           "Poster":"https://is4-ssl.mzstatic.com/image/thumb/dzX44PV0CuPuVg-8ScaEZA/1679x945sr.webp",
           "over_Poster_Image":"https://is4-ssl.mzstatic.com/image/thumb/EiCw5Jsq5ARaH_m9EYneGw/1200x450.webp",
@@ -447,6 +452,7 @@
         
       {
           "id":"105",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is3-ssl.mzstatic.com/image/thumb/6f5y-DYx9UvvcJ-gpqAufw/738x416.webp",
           "Poster":"https://is3-ssl.mzstatic.com/image/thumb/2bvcvsL2NJtzsmZjfVT3lw/1679x945sr.webp",
           "over_Poster_Image":"https://is5-ssl.mzstatic.com/image/thumb/PCo6Hw81WIgYyudirSevew/1200x450.webp",
@@ -516,6 +522,7 @@
           
       {
           "id":"106",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is3-ssl.mzstatic.com/image/thumb/HGw-QzsXlYUDp68NCOvxZQ/738x416.webp",
           "Poster":"https://is2-ssl.mzstatic.com/image/thumb/UlvQmKOTeCnI7Yo6HphuBg/999x562sr.webp",
           "over_Poster_Image":"https://is3-ssl.mzstatic.com/image/thumb/DpwJxqL2ccqA32wHBnTlmA/1200x450.webp",
@@ -619,6 +626,7 @@
            
       {
           "id":"107",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is1-ssl.mzstatic.com/image/thumb/UtRuOihF2zNFPo4g5zUwdA/738x416.webp",
           "Poster":"https://is4-ssl.mzstatic.com/image/thumb/6U-gqtS22zKWartzhsqvyw/1679x945sr.webp",
           "over_Poster_Image":"https://is2-ssl.mzstatic.com/image/thumb/yy9zY-hMjeRK8gUygTlAyA/1200x450.webp",
@@ -722,6 +730,7 @@
              
       {
           "id":"108",
+          "type":"Creature_&_Critters" ,
           "Image":"https://is2-ssl.mzstatic.com/image/thumb/lQggjzswj8ZD1hym1_oVGQ/738x416.webp",
           "Poster":"https://is4-ssl.mzstatic.com/image/thumb/JPbSu1uBoMNHtA-QzTuBrw/999x562sr.webp",
           "over_Poster_Image":"https://is4-ssl.mzstatic.com/image/thumb/BSnwNarFJzJ0tmp7qRGt_w/1200x450.webp",

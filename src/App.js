@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import './App.css';
 import { getAllLatestTodos,get } from './Redux/action';
 import { useSelector,useDispatch} from 'react-redux'
+import Home from './Components/Home';
 
 
 function App() {
@@ -13,8 +14,8 @@ function App() {
     get(dispatch)
   },[])
   return (
-    <div className="App">
-      Hello
+    <div >
+      <Home/>
     </div>
   );
 }
